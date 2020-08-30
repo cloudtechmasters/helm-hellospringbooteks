@@ -79,4 +79,5 @@
     <loadbalancer>:8080/hello
     http://a03bb109d210749f680a06813c8793d2-1493801453.us-east-1.elb.amazonaws.com:8080/hello
   ![image](https://user-images.githubusercontent.com/68885738/91664062-46e78600-eb0a-11ea-80f9-b153413365f3.png)
-
+# Delete springboot application using helm
+    helm delete hellospringbooteks
